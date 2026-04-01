@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-based web applications and full-stack development projects (React + Node + MongoDB)<br><br>👯 I’m looking to collaborate on<br>Open-source web projects, AI/ML dashboards, and MERN stack applications<br><br>🤝 I’m looking for help with<br>Advanced AI integration, system design, and scalable backend architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Advanced React, and AI/ML concepts<br><br>💬 Ask me about<br>Web Development, MERN Stack, JavaScript, React, and Hackathon Projects<br><br>⚡ Fun fact<br>NASA Space Apps Hackathon Runner-Up & 80+ day coding streak on CodeChef
+🔭 I’m currently working on<br>AI-based web applications and full-stack development projects (React + Node + MongoDB)<br><br>👯 I’m looking to collaborate on<br>Open-source web projects, AI/ML dashboards, and MERN stack applications<br><br>🤝 I’m looking for help with<br>Advanced AI integration, system design, and scalable backend architecture<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Advanced React, and AI/ML concepts<br><br>💬 Ask me about<br>Web Development, MERN Stack, JavaScript, React, and Hackathon Projects<br><br>⚡ Fun fact<br>NASA Space Apps Hackathon Runner-Up & 100+ day coding streak on CodeChef
 
 
 ## 🌐 Socials:
