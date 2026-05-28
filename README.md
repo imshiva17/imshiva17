@@ -49,6 +49,7 @@ Email Me 👉 ✉️ **shiva17.work@gmail.com** For Collaboration/Project or Any
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=imshiva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imshiva17&theme=dark&hide_border=false)<br/>
@@ -57,10 +58,13 @@ Email Me 👉 ✉️ **shiva17.work@gmail.com** For Collaboration/Project or Any
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imshiva17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imshiva17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+📬 Open to collaborations, freelance projects, or just a good tech conversation. <br/>
+**shiva17.work@gmail.com**
+
+</div>
 
 
