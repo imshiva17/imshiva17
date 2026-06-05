@@ -58,13 +58,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshiva17&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshiva17&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=imshiva17&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ---
@@ -72,7 +70,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imshiva17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+![](https://github-profile-trophy.vercel.app/?username=imshiva17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
 </div>
 
 ---
