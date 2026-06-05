@@ -59,11 +59,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=imshiva17&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshiva17&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
