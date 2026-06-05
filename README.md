@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shiva%20Rajak&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a6e,100:1a1a2e&height=200&section=header&text=Shiva%20Rajak&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62&descColor=58a6ff" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;TypeScript+%7C+Next.js+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;TypeScript+%7C+Next.js+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=imshiva17&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=imshiva17&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=imshiva17&theme=blue-navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imshiva17&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=imshiva17&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=imshiva17&theme=github-compact&hide_border=true)
 
 </div>
 
@@ -91,4 +91,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a6e,100:1a1a2e&height=80&section=footer" width="100%"/>
