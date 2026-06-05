@@ -67,11 +67,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=imshiva17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-activity-graph.vercel.app/graph?username=imshiva17&theme=tokyo-night&hide_border=true)
 
 </div>
 
