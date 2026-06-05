@@ -58,9 +58,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" height="180"/>
+  <img src="https://readme-stats-sigma-five.vercel.app/api?username=imshiva17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="180"/>
+  <img src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=imshiva17&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </div>
 
 <div align="center">
