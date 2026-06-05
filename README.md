@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=imshiva17&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=imshiva17&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
